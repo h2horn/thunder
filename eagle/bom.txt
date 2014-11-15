@@ -1,0 +1,22 @@
+Qty Value       Device            Package     Parts                                  Description
+2   22p         C-EUC0805         C0805       C1, C2                                 CAPACITOR, European symbol
+9   0.1µ        C-EUC0805         C0805       C3, C4, C5, C6, C9, C10, C13, C14, C16 CAPACITOR, European symbol
+2   15p         C-EUC0805         C0805       C7, C8                                 CAPACITOR, European symbol
+2   10µ         CPOL-EUB/3528-21R B/3528-21R  C11, C12                               POLARIZED CAPACITOR, European symbol
+1   22µ         CPOL-EUB/3528-21R B/3528-21R  C15                                    POLARIZED CAPACITOR, European symbol
+1   10k         R-EU_R0805        R0805       R1                                     RESISTOR, European symbol
+2   220         R-EU_R0805        R0805       R7, R8                                 RESISTOR, European symbol
+1   2k32        R-EU_R0805        R0805       R2                                     RESISTOR, European symbol
+4   49.9        R-EU_R0805        R0805       R3, R4, R5, R6                         RESISTOR, European symbol
+1   16MHz       CRYSTALHC49U-V    HC49U-V     Q1                                     CRYSTAL
+1   25MHz       CRYSTALHC49U-V    HC49U-V     Q2                                     CRYSTAL
+1   4µ7         L-EUL3225M        L3225M      L1                                     INDUCTOR, European symbol
+1   XMEGA16A4A  XMEGA16A4A        TQFP44      IC1                                    MICROCONTROLLER
+1   ENC28J60-SO ENC28J60-SO       SO28W       U1                                     Microchip 10Mbit Ethernet controller with SPI interface
+1   LD117AS33TR LD117AS33TR       SOT223      IC2                                    Low drop fixed and adjustable positive voltage regulators 1 A
+1   74HCT541DW  74HCT541DW        SO20W       IC3                                    Octal BUFFER and LINE DRIVER, 3-state
+1   TRJ0011     TRJ0011           TRJ0011     X1                                     10/100Base-TX RJ45 Connector With Integrated Magnetics(Tab-Down)
+4   AKL18X-02W  AKL18X-02W        AKL182-02   X2, X3, X4, X5                         Riacon AKL18X Steckverbinder
+1   MSTBA2      MSTBA2            MSTBA2      X6                                     PHOENIX
+1   PDI         ML6               ML6         SV1                                    HARTING
+1   Port A      MA05-2            MA05-2      SV2                                    PIN HEADER
