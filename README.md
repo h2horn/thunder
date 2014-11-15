@@ -24,7 +24,7 @@ Protocol
 --------
 
 `Thunder` recieves UDP data containing the raw LPD8806 data for each Strip
-on seperate UDP Ports (50000-50001). It forwards the data directly over SPI, without any checking or modification.
+on seperate UDP Ports (50000-50003). It forwards the data directly over SPI, without any checking or modification.
 
 The Host has full control and has to calculate the correct order and
 color ordering (RBG -> RGB), etc...
