@@ -6,7 +6,7 @@ Controlling [LPD8806](https://www.adafruit.com/products/306) based LED Strips ov
 * control up to 4 LPD8806 based LED Strips
 * simple UDP Protocol
 
-![bare](img/bare.jpg)
+![bare](img/thunder.jpg)
 
 Components
 ----------
@@ -19,6 +19,8 @@ Based on:
 ![plan](img/plan.png)
 
 ![dim](img/dim.png)
+
+![bare](img/bare.jpg)
 
 Protocol
 --------
